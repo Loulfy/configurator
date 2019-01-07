@@ -1,0 +1,16 @@
+[
+{
+  "modid": "configurator",
+  "name": "Configurator",
+  "description": "Paste config files...",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Loulfy"],
+  "credits": "gamerred",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
