@@ -2,6 +2,9 @@
 This mod copies the files present in its index to config folder which does not already exist.
 The source code is easily modifiable according to your needs.
 
+## Release
+WIP : [configurator-1.0.jar](https://github.com/Loulfy/configurator/releases/tag/1.0)
+
 ## Help
 * Edit the index file  (**assets/configurator/index.txt**), one line per file.
 * Put your files in the **assets/configurator** folder.
